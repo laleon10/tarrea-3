@@ -1,5 +1,20 @@
 # tarrea-3
 
+Objetivos
+Generales
+
+• Identificar cuando un circuito esta en paralelo o en serie y examinar que reglas rigen la operación de cada uno.
+
+Especificos
+
+• Conocer que establece de la ley de voltaje de Kirchhoff y cuán importante es esta en la electrónica.
+
+• Conocer las diferencias que existe con los voltajes en un circuito en paralelo y en un circuito en serie.
+
+• Identificar el funcionamiento de un amperímetro y que sucede con los efectos de carga
+
+• Conocer que establece la Ley de corriente de Kirchhoff y los beneficios que ha traído a la electrónica
+
 Ejercicios Capitulo 5
 
 2. Determine qué resistores de la figura 5-68 están en serie. Demuestre cómo interconectar las puntas para poner todos los resistores en serie.
@@ -354,3 +369,10 @@ corriente. Cuando todos estos elementos están en uso, ¿cuánta corriente hay e
 (d) 1 y 4
 
 ![image](https://user-images.githubusercontent.com/94025287/172427721-32f63200-b041-4425-aa73-fc86796f0021.png)
+
+Conclusiones
+
+• Al desarrollar los ejercicios vimos la importancia que tiene aprender a identificar cuando un circuito se encuentra en paralelo y cuando se encuentra en serie ya que existen muchas diferencias entre estos dos tipos de circuitos.
+
+Bibliografia
+F. (2021). Principles Of Electric Circuits, 8Ed. Pearson.
